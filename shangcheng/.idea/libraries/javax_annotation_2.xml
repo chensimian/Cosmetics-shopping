@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="javax.annotation_2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javax.annotation_2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.ejb_2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.jms_2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.persistence_2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.resource_2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jsp_2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet_2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.transaction_2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

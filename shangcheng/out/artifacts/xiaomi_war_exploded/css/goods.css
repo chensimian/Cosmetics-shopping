@@ -1,0 +1,153 @@
+.td{
+    height: 130px;
+    background-color: white;
+}
+.dp{
+    float: left;
+    margin: 0 40px;
+    width: 413px;
+    height: 415px;
+    background-color: #00F7DE;
+    text-align: center;
+}
+.dp img{
+    height: 100%;
+}
+.df{
+    float: left;
+    height: 415px;
+    width: 530px;
+    background-color: #fff;
+}
+.df h3{
+    padding: 10px;
+}
+.df .price{
+    height: 63px;
+    background-color: pink;
+    line-height: 63px;
+}
+.df .price em{
+    color: #c81623;
+}
+.df .price span{
+    margin :auto 10px;
+}
+.df .price em:first-child{
+    font-size: 20px;
+    font-family: arial;
+    margin-right: 4px;
+}
+.df .price em:last-child{
+    font-size: 18px;
+    font-weight: 700;
+    font-family: verdana,arial
+}
+.send{
+    height: 36px;
+    line-height: 36px;
+    border-bottom: 1px dotted #ccc;
+}
+.send span{
+    float: left;
+}
+.send span:first-child{
+    margin :auto 10px;
+}
+.send span:last-child{
+    margin :auto 10px;
+}
+.send div{
+    float: left;
+}
+.layui-input-block :hover{
+    border: 1px solid #c81623;
+}
+.star{
+    margin :auto 10px;
+    height: 30px;
+    line-height: 30px;
+}
+.xianxi{
+    height: 150px;
+    margin :10px 10px;
+    border: 1px dotted #ccc;
+}
+.buy{
+    margin :17px 10px;
+}
+.buy .buy_1{
+    float: left;
+    display: block;
+    width: 136px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    color: #E5511D;
+    background-color: #ffe4d0;
+    border: 1px solid #E5511D;
+}
+.buy .shoppcar{
+    float: left;
+    display: block;
+    width: 182px;
+    height: 40px;
+    line-height: 40px;
+    margin-left: 8px;
+    text-align: center;
+    color: #fff;
+    background-color: #ff4400;
+}
+.recom_t{
+    margin-top: 20px;
+}
+.recom_t span{
+    margin-left: 40px;
+    font-size: 20px;
+}
+.recomm{
+    margin: 0 40px;
+    width: 905px;
+    height: 300px;
+
+}
+.recom_m{
+    position: relative;
+    margin-left: 10px;
+    width: 870px;
+    height: 235px;
+
+}
+.recom_m .recom_pic{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 235px;
+    height: 235px;
+}
+.recom_m .recom_pic img{
+    width: 100%;
+}
+.recom_m .recom_show{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 605px;
+    height: 235px;
+    padding-left: 10px;
+    border: 1px dotted #ccc;
+}
+.recom_show .title{
+    margin-top: 10px;
+}
+.recom_show .starr{
+    width: 100%;
+    height: 30px;
+
+}
+.recom_show .introduce{
+    width: 100%;
+    border-top: 1px dotted #ccc;
+    margin-top: 10px;
+    font-size: 10px;
+}

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/WebContent/admin/login_style" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/css/base.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/css/common.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/css/goods.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/css/index.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/css/list.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/favicon.ico" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/fonts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/image/01_pic.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/image/02_pic.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/image/03_pic.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/image/04_pic.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/image/05_pic.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/image/20130331_1_1.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/image/20130331_1_10.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/image/20130331_1_11.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/image/20130331_1_12.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/image/20130331_1_13.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/image/20130331_1_14.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/image/20130331_1_15.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/image/20130331_1_16.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/image/20130331_1_17.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/image/20130331_1_18.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/image/20130331_1_19.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/image/20130331_1_2.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/image/20130331_1_20.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/image/20130331_1_3.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/image/20130331_1_4.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/image/20130331_1_5.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/image/20130331_1_6.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/image/20130331_1_7.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/image/20130331_1_8.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/image/20130331_1_9.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/image/icons.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/image/wx_cz.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/index.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/layui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/login_style" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/login_style" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/wyu/dao/CartDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wyu/dao/GoodsDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wyu/dao/OrderDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wyu/goods/servlet/GetGoodsById.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wyu/service/GoodsService.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

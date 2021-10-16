@@ -1,0 +1,72 @@
+.adv{
+    width: 1190px;
+    height: 130px;
+    background-color: white;
+    margin-bottom: 10px;
+}
+.ll ul li{
+    float: left;
+    position: relative;
+    width: 290px;
+    height: 460px;
+    margin-right: 10px;
+}
+.ll ul li:nth-child(4n){
+    margin-right: 0;
+}
+.ll ul li:hover{
+    border: 1px solid #c81623;
+}
+
+.ll ul li img{
+    width: 100%;
+}
+.ll ul li h4{
+    margin: 10px 10px;
+    height: 48px;
+    /*overflow: hidden;*/
+    /*text-overflow: ellipsis;*/
+    /*white-space: nowrap;*/
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.ll ul li .price{
+    margin-left: 10px;
+}
+.ll ul li .price .current{
+    float: left;
+    font-size: 22px;
+    color: #b1191a;
+}
+.ll ul li .price .origin{
+    float: left;
+    font-size: 14px;
+    color: #a4a4a4;
+    text-decoration: line-through;
+    margin-left: 6px;
+    padding-top: 8px;
+}
+.ll ul li .anan{
+    position: absolute;
+    bottom: 10px;
+    margin: 20px 10px;
+
+}
+.ll ul li .anan::before{
+    font-family: 'icomoon';
+    content: '\e9bd';
+}
+.ll ul li .fire{
+    position: absolute;
+    bottom: 10px;
+    margin: 20px 10px;
+    color: red;
+    right: 10px;
+
+}
+.ll ul li .fire::after{
+    font-family: 'icomoon';
+    content: '\e904';
+}
+

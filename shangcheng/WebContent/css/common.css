@@ -1,0 +1,222 @@
+@font-face {
+    font-family: 'icomoon';
+    src:  url('../fonts/icomoon.eot?ncb6oz');
+    src:  url('../fonts/icomoon.eot?ncb6oz#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?ncb6oz') format('truetype'),
+    url('../fonts/icomoon.woff?ncb6oz') format('woff'),
+    url('../fonts/icomoon.svg?ncb6oz#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+.shortcut{
+    height: 31px;
+    line-height: 31px;
+    border-bottom: 1px solid #ddd;
+    background-color: #e3e4e5;
+}
+.w{
+    width: 1200px;
+    margin: 0 auto;
+}
+.style_red{
+    color: #c81623;
+}
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.shortcut ul li{
+    float: left;
+}
+.shortcut .fr ul li:nth-child(even){
+    width: 1px;
+    height: 12px;
+    background-color: #666;
+    margin: 9px 15px 0;
+}
+.arrow_icon::after{
+    font-family: 'icomoon';
+    content: '\e91e';
+    margin-left: 6px;
+
+}
+.header{
+    background-color: #fff;
+    position: relative;
+    height: 105px;
+}
+.logo{
+    position: absolute;
+    top: 14px;
+    width: 270px;
+    height: 77px;
+}
+.logo h1 a{
+    display: block;
+    width: 270px;
+    height: 77px;
+    background: url("../image/logo.png");
+    text-indent: -9999px;
+    overflow: hidden;
+
+}
+.search{
+    position: absolute;
+    top: 30px;
+    left: 280px;
+    width: 600px;
+    height: 42px;
+    border: 2px solid #c81623;
+
+}
+.search input{
+    width: 480px;
+    height: 100%;
+    padding-left: 10px;
+}
+.search button{
+    width: 116px;
+    height: 100%;
+    background-color: #c81623;
+    text-align: center;
+}
+.search button::before{
+    font-family: 'icomoon';
+    content: '\e986';
+}
+.hotword{
+    position: absolute;
+    top: 80px;
+    left: 280px;
+    width: 600px;
+
+}
+.hotword ul li{
+    float: left;
+}
+.hotword a{
+    margin: 0 10px;
+}
+.shopcar{
+    position: absolute;
+    right: 60px;
+    top: 30px;
+    width: 140px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    border: 1px solid #dfdfdf;
+    background-color: #f7f7f7;
+}
+.shopcar::before{
+    font-family: 'icomoon';
+    content: '\e93a';
+    margin-right: 5px;
+    color: #b1191a;
+}
+.shopcar::after{
+    font-family: 'icomoon';
+    content: '\e920';
+    margin-left: 10px;
+}
+.count{
+    position: absolute;
+    top: -5px;
+    left: 105px;
+    line-height: 14px;
+    height: 14px;
+    border-radius: 7px 7px 7px 0;
+    color: white;
+    background-color: #b1191a;
+    padding: 0 5px;
+}
+.footer{
+    height: 415px;
+    background-color: #f5f5f5;
+    margin-top: 90px;
+    padding-top: 30px;
+}
+.mod_service{
+    height: 80px;
+    border-bottom: 1px solid #ccc;
+}
+.mod_service ul li{
+    float: left;
+    width: 300px;
+    height: 50px;
+    padding-left: 35px;
+
+}
+.mod_service ul li h5{
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-right: 8px;
+}
+.mod_service ul li .p1{
+    background: url("../images/icons.png") no-repeat -253px -2px;
+}
+.mod_service ul li .p2{
+    background: url("../images/icons.png") no-repeat -253px -53px;
+}
+.mod_service ul li .p3{
+    background: url("../images/icons.png") no-repeat -257px -106px;
+}
+.mod_service ul li .p4{
+    background: url("../images/icons.png") no-repeat -258px -208px;
+}
+.service_txt h4{
+    font-size: 14px;
+}
+.service_txt p{
+    font-size: 12px;
+}
+.mod_help{
+    height: 185px;
+    padding-top: 20px;
+    padding-left: 50px;
+    border-bottom: 1px solid #ccc;
+}
+.mod_help dl{
+    float: left;
+    width: 200px;
+}
+.mod_help dl:last-child{
+    width: 90px;
+    text-align: center;
+}
+.mod_help dl dt{
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.mod_copyright{
+    text-align: center;
+    padding-top: 20px;
+}
+.links{
+    margin-bottom: 15px;
+}
+.links a{
+    margin: 0 3px;
+}
+.copyright{
+    line-height: 20px;
+}
+.totop{
+    display: block;
+    width: 70px;
+    height: 70px;
+    background-color: #e3e4e5;
+    border-radius: 15px;
+    position:fixed;
+    right:50px;
+    bottom:50px;
+}
+.totop:hover{
+    background-color: #ff4400;
+    color: #fff;
+}
